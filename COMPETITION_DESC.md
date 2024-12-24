@@ -68,7 +68,7 @@ The funding dataset will let you approximate how much funding all relevant repos
 
 - **Winner**
 
-70% of the 3410 comparisons made available to participants as training data.
+70% of the 3,410 comparisons made available to participants as training data.
 
 30% for testing model submissions.
 
